@@ -446,7 +446,7 @@ export const definitions: DefinitionWithExtend[] = [
             }),
         ],
         exposes: [
-            e.power_reactive(),
+            // e.power_reactive(),
             e.power_reactive_phase_b(),
             e.power_reactive_phase_c(),
             e.power_apparent(),
